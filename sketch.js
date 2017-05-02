@@ -4,7 +4,7 @@
 //It is an animated story of a person going to the same location and seeing how gentrification affects it
 //The hardest part of this was figuring out the structure to control things exactly how I wanted them to  
 
-var teleport = 6; //controls the scenes, even though it's meant to actually be time travel 
+var teleport = 0; //controls the scenes, even though it's meant to actually be time travel 
 var tp = 1; //controls which time travel visual to toggle
 var player_sprite_sheet; //these are used to create the sprite
 var player_walk; 
